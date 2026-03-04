@@ -1,0 +1,41 @@
+# CMake build directory
+build/
+cmake_build_debug/
+cmake_build_release/
+
+# Conan generated files
+conan_toolchain.cmake
+conaninfo.txt
+conanbuildinfo.cmake
+conanbuild.bat
+conanrun.bat
+deactivate_conanrun.bat
+deactivate_conanbuild.bat
+CMakePresets.json
+CMakeDeps*
+
+# CMake cache
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.cmake
+
+# IDE
+.vscode/
+.idea/
+*.sln
+*.vcxproj*
+Debug/
+Release/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.exe
+*.dll
+*.lib
+*.a
+*.o
+*.obj
