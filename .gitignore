@@ -13,6 +13,8 @@ deactivate_conanrun.bat
 deactivate_conanbuild.bat
 CMakePresets.json
 CMakeDeps*
+conanbuildenv-*.bat
+conanrunenv-*.bat
 
 # CMake cache
 CMakeCache.txt
